@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "panasonic.cn",
+        "panasonic.com",
+        "panasonic.jp",
+        "technics.com"
+      ],
+      "domain_suffix": [
+        ".panasonic",
+        ".panasonic.cn",
+        ".panasonic.com",
+        ".panasonic.jp",
+        ".technics.com"
+      ]
+    }
+  ]
+}

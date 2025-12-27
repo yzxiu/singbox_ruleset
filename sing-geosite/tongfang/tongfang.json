@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "thtf.com.cn",
+        "tongfangpc.com",
+        "mechrevo.com"
+      ],
+      "domain_suffix": [
+        ".thtf.com.cn",
+        ".tongfangpc.com",
+        ".mechrevo.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "captive.apple.com",
+        "ping.archlinux.org",
+        "cp.cloudflare.com",
+        "network-test.debian.org",
+        "detectportal.firefox.com",
+        "connectivitycheck.gstatic.com",
+        "connectivitycheck.platform.hihonorcloud.com",
+        "connectivitycheck.platform.hicloud.com",
+        "networkcheck.kde.org",
+        "connect.rom.miui.com",
+        "connectivity-check.ubuntu.com",
+        "msftconnecttest.com",
+        "msftncsi.com"
+      ],
+      "domain_suffix": [
+        ".captive.apple.com",
+        ".ping.archlinux.org",
+        ".cp.cloudflare.com",
+        ".network-test.debian.org",
+        ".detectportal.firefox.com",
+        ".connectivitycheck.gstatic.com",
+        ".networkcheck.kde.org",
+        ".msftconnecttest.com",
+        ".msftncsi.com"
+      ]
+    }
+  ]
+}
