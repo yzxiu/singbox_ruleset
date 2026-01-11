@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "zeetv.com",
+        "zee5.tv",
+        "zeebioskop.com",
+        "zee5.in",
+        "zeeuk.com",
+        "zee5.com",
+        "zeetv.co.uk",
+        "z5.app",
+        "z5.com"
+      ]
+    }
+  ],
+  "version": 2
+}

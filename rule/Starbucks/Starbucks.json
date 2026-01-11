@@ -1,0 +1,41 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "starbucksreserve.com",
+        "starbucks.co.th",
+        "starbucks.co.uk",
+        "starbucks.at",
+        "starbucks.com.cn",
+        "starbucks.fr",
+        "starbucks.co.jp",
+        "starbucks.bg",
+        "starbucks.co.nz",
+        "starbucks.be",
+        "starbucks.co.id",
+        "starbucks.com.ar",
+        "starbucks.com.gr",
+        "starbucks.com.kh",
+        "starbucksathome.com",
+        "starbucks-stars.com",
+        "starbucks.com.mx",
+        "starbucks.com",
+        "sbuxcard.com",
+        "sbux.com.my",
+        "starbucks.com.co",
+        "starbucks.ca",
+        "starbucks.ch",
+        "starbucks.ie",
+        "starbucks.de",
+        "starbucks.co.za",
+        "starbucks.ad",
+        "starbucks.com.my",
+        "starbucks.com.hk",
+        "starbucks.com.cy",
+        "starbucks.com.kz",
+        "starbucks.com.bn"
+      ]
+    }
+  ],
+  "version": 2
+}

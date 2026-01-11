@@ -1,0 +1,49 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "researchkit.hk",
+        "devstreaming-cdn.apple.com",
+        "push-apple.com.akadns.net",
+        "webkitgtk.org",
+        "apple-mapkit.com",
+        "macruby.org",
+        "wpewebkit.org",
+        "servicetalk.io",
+        "swiftui.com.cn",
+        "researchkit.net",
+        "macruby.net",
+        "timestamp.apple.com",
+        "researchkit.com.cn",
+        "apple-cloudkit.com",
+        "appleworldwidedeveloper.hb-api.omtrdc.net",
+        "carekit.org",
+        "appleworldwidedeveloper.sc.omtrdc.net",
+        "foundationdb.org",
+        "cups.org",
+        "playgrounds-cdn.apple.com",
+        "webkit.org",
+        "researchkit.tv",
+        "macruby.com",
+        "apple.com.akadns.net",
+        "developerservices2.apple.com",
+        "p-events-delivery.akamaized.net",
+        "calendarserver.org",
+        "developer.apple.com",
+        "webobjects.com",
+        "notary-submissions-prod.s3-accelerate.amazonaws.com",
+        "swiftui.cn",
+        "devimages-cdn.apple.com",
+        "researchkit.org",
+        "notary-submissions-prod.s3.us-west-2.amazonaws.com",
+        "researchandcare.org",
+        "swift.org",
+        "macosforge.org",
+        "courier-push-apple.com.akadns.net",
+        "appleswift.com",
+        "researchkit.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

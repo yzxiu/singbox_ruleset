@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "nntlj.com",
+        "china-ric.com",
+        "creip.cn",
+        "tdpress.com",
+        "gzrailway.com.cn",
+        "peoplerail.com",
+        "crscl.com.cn",
+        "rails.cn",
+        "china-railway.com.cn",
+        "95306.cn",
+        "12306.cn",
+        "cre.cn",
+        "crecc.com.cn",
+        "crct.com",
+        "95572.com"
+      ]
+    }
+  ],
+  "version": 2
+}

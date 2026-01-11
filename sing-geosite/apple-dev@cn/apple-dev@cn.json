@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "swiftui.cn",
+        "swiftui.com.cn",
+        "researchkit.cn",
+        "researchkit.com.cn"
+      ],
+      "domain_suffix": [
+        ".swiftui.cn",
+        ".swiftui.com.cn",
+        ".researchkit.cn",
+        ".researchkit.com.cn"
+      ]
+    }
+  ]
+}

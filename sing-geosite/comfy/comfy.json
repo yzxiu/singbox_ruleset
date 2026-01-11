@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "oystermercury.top",
+        "comfy.org",
+        "comfyci.org",
+        "comfyregistry.org"
+      ],
+      "domain_suffix": [
+        ".oystermercury.top",
+        ".comfy.org",
+        ".comfyci.org",
+        ".comfyregistry.org"
+      ]
+    }
+  ]
+}
