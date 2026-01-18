@@ -1,0 +1,81 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "spotifycdn.com",
+        "spotify.map.fastly.net",
+        "scdn.co",
+        "spotifycodes.com",
+        "pscdn.co",
+        "spotifycdn.net",
+        "spotifyforbrands.com",
+        "spoti.fi",
+        "cdn-spotify-experiments.conductrics.com",
+        "spotify.map.fastlylb.net",
+        "spotifycharts.com",
+        "byspotify.com",
+        "audio4-ak-spotify-com.akamaized.net",
+        "spotify-everywhere.com",
+        "spotify.com.edgesuite.net",
+        "spotify.design",
+        "spotify.link",
+        "tospotify.com",
+        "audio-ak-spotify-com.akamaized.net",
+        "spotify.com",
+        "heads4-ak-spotify-com.akamaized.net",
+        "heads-ak-spotify-com.akamaized.net",
+        "spotifyjobs.com"
+      ],
+      "domain_keyword": [
+        "spotify"
+      ],
+      "domain_suffix": [
+        ".spotifycdn.net",
+        "spotifycdn.com",
+        "scdn.co",
+        "spotifycodes.com",
+        ".spotifycodes.com",
+        "pscdn.co",
+        "spotifycdn.net",
+        "spotifyforbrands.com",
+        "spoti.fi",
+        ".spotify-everywhere.com",
+        ".spotify.design",
+        "spotifycharts.com",
+        "byspotify.com",
+        ".spoti.fi",
+        ".spotifyforbrands.com",
+        ".spotify.com",
+        "spotify.app.link",
+        ".spotify.link",
+        "spotify-everywhere.com",
+        "spotilocal.com",
+        ".pscdn.co",
+        ".spotifyjobs.com",
+        "spotify.design",
+        "spotify-com.akamaized.net",
+        ".scdn.co",
+        ".byspotify.com",
+        ".spotifycdn.com",
+        "tospotify.com",
+        "spotifynewsroom.jp",
+        "audio-ak-spotify-com.akamaized.net",
+        ".tospotify.com",
+        "spotify.com",
+        "heads4-ak-spotify-com.akamaized.net",
+        "spotifyjobs.com",
+        ".spotifycharts.com"
+      ],
+      "ip_cidr": [
+        "104.154.127.126/32",
+        "35.186.224.47/32"
+      ]
+    },
+    {
+      "process_name": [
+        "com.spotify.music"
+      ]
+    }
+  ],
+  "version": 2
+}

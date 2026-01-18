@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "last.fm",
+        "lastfm.freetls.fastly.net"
+      ],
+      "domain_suffix": ".last.fm"
+    }
+  ]
+}
