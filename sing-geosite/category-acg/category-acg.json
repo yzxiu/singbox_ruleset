@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "bowlroll.net",
+        "colorfulstage.com",
+        "crypton.co.jp",
+        "lapriere.jp",
+        "magicalmirai.com",
+        "mikuexpo.com",
+        "piapro.net",
+        "snowmiku.com"
+      ],
+      "domain_suffix": [
+        ".bowlroll.net",
+        ".colorfulstage.com",
+        ".crypton.co.jp",
+        ".lapriere.jp",
+        ".magicalmirai.com",
+        ".mikuexpo.com",
+        ".piapro.net",
+        ".snowmiku.com"
+      ]
+    }
+  ]
+}

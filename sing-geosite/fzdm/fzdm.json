@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "fffdm.com",
+        "fzdm.com"
+      ],
+      "domain_suffix": [
+        ".fffdm.com",
+        ".fzdm.com"
+      ]
+    }
+  ]
+}

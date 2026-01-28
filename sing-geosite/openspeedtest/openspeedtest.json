@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "open.cachefly.net",
+        "openspeedtest.com"
+      ],
+      "domain_suffix": [
+        ".open.cachefly.net",
+        ".openspeedtest.com"
+      ]
+    }
+  ]
+}

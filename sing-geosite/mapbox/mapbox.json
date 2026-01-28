@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "mapbox.cn",
+        "mapbox.com"
+      ],
+      "domain_suffix": [
+        ".mapbox.cn",
+        ".mapbox.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "faceit-cdn.net",
+        "faceit.com"
+      ],
+      "domain_suffix": [
+        ".faceit-cdn.net",
+        ".faceit.com"
+      ]
+    }
+  ]
+}

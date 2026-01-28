@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "kastatic.org",
+        "khanacademy.org"
+      ],
+      "domain_suffix": [
+        ".kastatic.org",
+        ".khanacademy.org"
+      ]
+    }
+  ]
+}

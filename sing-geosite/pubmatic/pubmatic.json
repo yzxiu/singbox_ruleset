@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ads.pubmatic.com",
+        "pubmatic.co.jp",
+        "pubmatic.com"
+      ],
+      "domain_suffix": [
+        ".ads.pubmatic.com",
+        ".pubmatic.co.jp",
+        ".pubmatic.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "doc88.com",
+        "docin.com",
+        "douding.cn"
+      ],
+      "domain_suffix": [
+        ".doc88.com",
+        ".docin.com",
+        ".douding.cn"
+      ]
+    }
+  ]
+}

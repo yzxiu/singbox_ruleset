@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "fedoraforum.org",
+        "fedoramagazine.org",
+        "fedorapeople.org",
+        "fedoraproject.org",
+        "getfedora.org"
+      ],
+      "domain_suffix": [
+        ".fedoraforum.org",
+        ".fedoramagazine.org",
+        ".fedorapeople.org",
+        ".fedoraproject.org",
+        ".getfedora.org"
+      ]
+    }
+  ]
+}

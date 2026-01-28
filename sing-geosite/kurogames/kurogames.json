@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "aki-game.com",
+        "kurogames.com"
+      ],
+      "domain_suffix": [
+        ".aki-game.com",
+        ".kurogames.com"
+      ]
+    }
+  ]
+}

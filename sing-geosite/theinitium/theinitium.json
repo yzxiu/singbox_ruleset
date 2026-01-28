@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "init.shop",
+        "theinitium.com"
+      ],
+      "domain_suffix": [
+        ".init.shop",
+        ".theinitium.com"
+      ]
+    }
+  ]
+}

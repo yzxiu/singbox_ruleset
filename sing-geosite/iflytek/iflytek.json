@@ -1,0 +1,30 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "changyan.com",
+        "ets100.com",
+        "iflyink.com",
+        "iflyrec.com",
+        "iflysec.com",
+        "iflytek.com",
+        "xfyun.cn",
+        "xunfei.cn",
+        "xunfeixxj.com",
+        "zhixue.com"
+      ],
+      "domain_suffix": [
+        ".changyan.com",
+        ".ets100.com",
+        ".iflyink.com",
+        ".iflyrec.com",
+        ".iflysec.com",
+        ".iflytek.com",
+        ".xfyun.cn",
+        ".xunfei.cn",
+        ".xunfeixxj.com",
+        ".zhixue.com"
+      ]
+    }
+  ]
+}

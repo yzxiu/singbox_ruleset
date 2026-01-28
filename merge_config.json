@@ -1,0 +1,160 @@
+{
+  "merged_rulesets": [
+    {
+      "name": "CN",
+      "path": "my_rule/cn",
+      "rulesets": [
+        "Alibaba",
+        "AliPay",
+        "Baidu",
+        "BiliBili",
+        "ByteDance",
+        "China",
+        "ChinaDNS",
+        "ChinaIPs",
+        "ChinaIPsBGP",
+        "ChinaMax",
+        "ChinaMaxNoIP",
+        "ChinaMaxNoMedia",
+        "ChinaMedia",
+        "ChinaMobile",
+        "ChinaNews",
+        "ChinaNoMedia",
+        "ChinaTelecom",
+        "ChinaTest",
+        "ChinaUnicom",
+        "Coolapk",
+        "DiDi",
+        "DingTalk",
+        "DouYin",
+        "Douyu",
+        "Eleme",
+        "FeiZhu",
+        "GaoDe",
+        "Huawei",
+        "HuYa",
+        "iQIYI",
+        "JingDong",
+        "KuaiShou",
+        "KugouKuwo",
+        "LeTV",
+        "MeiTuan",
+        "Migu",
+        "NetEase",
+        "NetEaseMusic",
+        "OnePlus",
+        "OPPO",
+        "Pinduoduo",
+        "PPTV",
+        "Sina",
+        "Sohu",
+        "TapTap",
+        "Tencent",
+        "TencentVideo",
+        "TongCheng",
+        "UnionPay",
+        "VipShop",
+        "WeChat",
+        "Weibo",
+        "XiamiMusic",
+        "XianYu",
+        "XiaoHongShu",
+        "XiaoMi",
+        "XieCheng",
+        "Youku",
+        "Zhihu",
+        "geosite:cn",
+        "geosite:netease",
+        "geosite:tencent",
+        "geosite:alibaba",
+        "geosite:baidu",
+        "geosite:jd",
+        "geosite:meituan",
+        "geosite:sina",
+        "geosite:oppo",
+        "geosite:category-bank-cn",
+        "geosite:category-games-cn",
+        "geosite:category-media-cn"
+      ]
+    },
+    {
+      "name": "Egress",
+      "path": "my_rule/egress",
+      "rulesets": [
+        "Imgur",
+        "Reddit",
+        "Wikimedia",
+        "Wikipedia",
+        "geosite:ptt",
+        "geosite:dcard"
+      ]
+    },
+    {
+      "name": "Media",
+      "path": "my_rule/media",
+      "rulesets": [
+        "Youtube",
+        "Twitch",
+        "Tiktok",
+        "GlobalMedia",
+        "USMedia"
+      ]
+    },
+    {
+      "name": "AI",
+      "path": "my_rule/ai",
+      "rulesets": [
+        "OpenAI",
+        "Anthropic",
+        "Gemini",
+        "geosite:cursor",
+        "geosite:category-ai-!cn",
+        "geosite:category-ai-chat-!cn"
+      ]
+    },
+    {
+      "name": "Proxy",
+      "path": "my_rule/proxy",
+      "rulesets": [
+        "Docker",
+        "GitHub",
+        "Microsoft"
+      ]
+    },
+    {
+      "name": "Telegram",
+      "path": "my_rule/telegram",
+      "rulesets": [
+        "Telegram",
+        "TelegramNL",
+        "TelegramSG",
+        "TelegramUS",
+        "geosite:telegram"
+      ]
+    },
+    {
+      "name": "Google",
+      "path": "my_rule/google",
+      "rulesets": [
+        "Google",
+        "geosite:google"
+      ]
+    },
+    {
+      "name": "Spotify",
+      "path": "my_rule/spotify",
+      "rulesets": [
+        "Spotify",
+        "geosite:spotify"
+      ]
+    },
+    {
+      "name": "Youtube",
+      "path": "my_rule/youtube",
+      "rulesets": [
+        "Youtube",
+        "geosite:youtube"
+      ]
+    }
+  ]
+}

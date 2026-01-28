@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "eleme.com.cn",
+        "ele.to",
+        "xingxuanwaimai.com",
+        "xyzele.com",
+        "youcaishop.cn",
+        "elemecdn.com",
+        "elenet.me",
+        "eleme.io",
+        "fengniaozhongbao.cn",
+        "elemecdn.cn",
+        "fengniaopaotui.cn",
+        "ele.me",
+        "eleme.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

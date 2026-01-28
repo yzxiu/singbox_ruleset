@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ads-twitter.com",
+        "graph-fallback.instagram.com",
+        "graph.instagram.com"
+      ],
+      "domain_suffix": [
+        ".ads-twitter.com",
+        ".graph-fallback.instagram.com",
+        ".graph.instagram.com"
+      ]
+    }
+  ]
+}

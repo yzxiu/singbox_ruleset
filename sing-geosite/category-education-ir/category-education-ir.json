@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "done.ir",
+        "faradars.org",
+        "git.ir",
+        "iranlms.org",
+        "learnby.ir",
+        "toplearn.com",
+        "webinarplus.online"
+      ],
+      "domain_suffix": [
+        ".done.ir",
+        ".faradars.org",
+        ".git.ir",
+        ".iranlms.org",
+        ".learnby.ir",
+        ".toplearn.com",
+        ".webinarplus.online"
+      ]
+    }
+  ]
+}

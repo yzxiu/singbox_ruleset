@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "sentry-cdn.com",
+        "sentry.io"
+      ],
+      "domain_suffix": [
+        ".sentry-cdn.com",
+        ".sentry.io"
+      ]
+    }
+  ]
+}
