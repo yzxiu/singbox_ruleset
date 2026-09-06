@@ -1,0 +1,43 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "itvpnp.live.ott.irdeto.com",
+        "vod-thumb-ww-live.akamaized.net",
+        "itvpnpmobile-a.akamaihd.net",
+        "vs-cmaf-pushb-ww-live.akamaized.net",
+        "itvpnp.stage.ott.irdeto.com",
+        "vod-dash-ww-live.akamaized.net"
+      ],
+      "domain_keyword": [
+        "bbcfmt",
+        "uk-live"
+      ],
+      "domain_suffix": [
+        "bbci.co.uk",
+        "bbc.com",
+        "bb-static.com",
+        "bbc.co",
+        "bbcpersian.com",
+        "bidi.net.uk",
+        "channel4.com",
+        "c4assets.com",
+        "bbcchinese.com",
+        "bbci.co",
+        "bbc.in",
+        "itv.com",
+        "bbc",
+        "britbox.com",
+        "massive-itv.com",
+        "bbcverticals.com",
+        "itvstatic.com",
+        "bbc.co.uk",
+        "bbc.net.uk",
+        "britbox.co.uk",
+        "bbcmedia.co.uk",
+        "bbc-reporting-api.app"
+      ]
+    }
+  ],
+  "version": 2
+}

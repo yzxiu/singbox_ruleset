@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "fhnfile.oss-cn-shenzhen.aliyuncs.com"
+      ],
+      "domain_suffix": [
+        "115cdn.net",
+        "115img.com",
+        "sq.cc",
+        "anxia.com",
+        "115.com",
+        "116cd.cn",
+        "116cd.net",
+        "116cd.com",
+        "115cdn.com"
+      ]
+    }
+  ],
+  "version": 2
+}

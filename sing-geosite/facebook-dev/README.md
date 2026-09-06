@@ -1,0 +1,9 @@
+# facebook-dev
+
+#### 规则链接
+
+**Github**
+https://raw.githubusercontent.com/yzxiu/singbox_ruleset/main/sing-geosite/facebook-dev/facebook-dev.srs
+
+**CDN**
+https://cdn.jsdelivr.net/gh/yzxiu/singbox_ruleset@main/sing-geosite/facebook-dev/facebook-dev.srs

@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "supertool.net.cn",
+        "3wnet.cn",
+        "mzhen.com",
+        "touchjoint.com",
+        "mzhen.cn",
+        "withdata.cn",
+        "miaozhen.cn",
+        "touchjoin.com",
+        "mzfile.com",
+        "stfile.com",
+        "momentad.com",
+        "admonitor.org",
+        "grpindex.com",
+        "mlt.pub",
+        "withwinds.com",
+        "xueto.com",
+        "mzsvn.com",
+        "miaozhen.com"
+      ]
+    }
+  ],
+  "version": 2
+}

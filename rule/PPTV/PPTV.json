@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pptvnet.com",
+        "kidkk.cn",
+        "bkrent.cn",
+        "pplive.net",
+        "kidsn.cn",
+        "g1d.net",
+        "snrent.cn",
+        "synacast.com",
+        "pptvyun.com",
+        "iptv.com.cn",
+        "pptv.com",
+        "kidpp.cn",
+        "pplive.com",
+        "kidyy.cn",
+        "jiwunote.com.cn",
+        "pplive.com.cn",
+        "pptvdata.com",
+        "pplive.cn",
+        "pptvimg.com"
+      ]
+    }
+  ],
+  "version": 2
+}

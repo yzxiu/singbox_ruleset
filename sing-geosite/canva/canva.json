@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "affinity-beta.s3.amazonaws.com",
+        "affinity-lessons.s3.amazonaws.com",
+        "affinity.api.serifservices.com",
+        "affinity.studio",
+        "canva.com",
+        "canvastatus.com"
+      ],
+      "domain_suffix": [
+        ".affinity-beta.s3.amazonaws.com",
+        ".affinity-lessons.s3.amazonaws.com",
+        ".affinity.api.serifservices.com",
+        ".affinity.studio",
+        ".canva.com",
+        ".canvastatus.com"
+      ]
+    }
+  ]
+}

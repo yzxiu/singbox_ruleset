@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "deepl.com",
+        "linguee.com"
+      ],
+      "domain_suffix": [
+        ".deepl.com",
+        ".linguee.com"
+      ]
+    }
+  ]
+}

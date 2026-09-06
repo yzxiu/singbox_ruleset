@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "counter-strike.cn",
+        "wmupd.com.cn",
+        "wmupd.com",
+        "wanmei.net",
+        "pwrdoverseas.com",
+        "laohu.com",
+        "wmwm.com",
+        "csgo.com.cn",
+        "pwrdoverseagame.com",
+        "wanmei.com",
+        "counter-strike.com.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

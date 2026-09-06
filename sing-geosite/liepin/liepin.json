@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "liepin.com",
+        "lietou-static.com",
+        "lietou.com"
+      ],
+      "domain_suffix": [
+        ".liepin.com",
+        ".lietou-static.com",
+        ".lietou.com"
+      ]
+    }
+  ]
+}
