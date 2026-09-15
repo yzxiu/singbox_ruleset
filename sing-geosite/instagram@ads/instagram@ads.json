@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "graph-fallback.instagram.com",
+        "graph.instagram.com"
+      ],
+      "domain_suffix": [
+        ".graph-fallback.instagram.com",
+        ".graph.instagram.com"
+      ]
+    }
+  ]
+}

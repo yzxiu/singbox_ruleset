@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "zaobao.com",
+        "zaobao.com.sg",
+        "zaobao.sg"
+      ],
+      "domain_suffix": [
+        ".zaobao.com",
+        ".zaobao.com.sg",
+        ".zaobao.sg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "loogoo.com",
+        "saayaa.com",
+        "zuihuimai.com",
+        "ithome.com",
+        "win8china.com",
+        "lapin365.com",
+        "wanhongbao.com",
+        "ruanmei.com",
+        "cike.cn",
+        "yaodu365.com",
+        "vista123.com",
+        "6655.com",
+        "cooldock.com",
+        "fengkeji.com",
+        "tweakcube.com",
+        "win7china.com",
+        "ruanmei.cn",
+        "jimeng.com",
+        "souxia.com",
+        "henku.com",
+        "dnsnut.com",
+        "ithome.net"
+      ]
+    }
+  ],
+  "version": 2
+}
