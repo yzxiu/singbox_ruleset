@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pixnet.net",
+        "pixplug.in",
+        "pixnet.cc",
+        "pimg.tw",
+        "pixnet.pro",
+        "pixfs.net",
+        "pixinsight.com.tw",
+        "pixnet.tw",
+        "pixanalytics.com"
+      ]
+    }
+  ],
+  "version": 2
+}

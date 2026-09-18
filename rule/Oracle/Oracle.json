@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "covid19rx.org",
+        "addthis.com.edgekey.net",
+        "oraclecloud.com",
+        "en25.com",
+        "oracleinfinity.io",
+        "ateam-oracle.com",
+        "eloquapreview.com",
+        "sun.com",
+        "addthisedge.com",
+        "responsys.net",
+        "eloqua.com",
+        "a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com",
+        "oracle",
+        "oraclefoundation.org",
+        "eloquaeditors.com",
+        "addthiscdn.com",
+        "oracleimg.com",
+        "addthis.com",
+        "oracle.com",
+        "covid19-rx.org",
+        "java.com",
+        "bluekai.com",
+        "java",
+        "bronto.com",
+        "java.net"
+      ]
+    }
+  ],
+  "version": 2
+}

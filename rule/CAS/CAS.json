@@ -1,0 +1,52 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "stmjsociety.com",
+        "nsl.ac.cn",
+        "lndx.ac.cn",
+        "acas.ac.cn",
+        "chinaxiv.org",
+        "csdl.net.cn",
+        "grc-oa.org.cn",
+        "cjstp.cn",
+        "iauthor.ac.cn",
+        "lis.ac.cn",
+        "dataintelligence.ac.cn",
+        "sciencechina.net.cn",
+        "cnegov.org",
+        "csci.net.cn",
+        "csdl.ac.cn",
+        "ndpp.ac.cn",
+        "cnegov.com",
+        "agklab.cn",
+        "ipres2020.cn",
+        "chinaxiv.com",
+        "sciencechina.ac.cn",
+        "stpaper.cn",
+        "openinnovation.cn",
+        "csdl.org.cn",
+        "sciencechina.cn",
+        "museum.ac.cn",
+        "infotech.ac.cn",
+        "berlin8.org",
+        "las.ac.cn",
+        "jdis.org",
+        "open-search.org",
+        "biotech.ac.cn",
+        "modernization.ac.cn",
+        "cscd.ac.cn",
+        "chinaxiv.net",
+        "iauthor.cn",
+        "sciencefocus.ac.cn",
+        "progchem.ac.cn",
+        "hitech.ac.cn",
+        "openinnoviation.cn",
+        "csci.ac.cn",
+        "sciencechina.org.cn",
+        "chinaxiv.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
