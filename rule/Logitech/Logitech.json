@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "logitech.fr",
+        "worldsfastestgamer.net",
+        "logitech.com",
+        "logitech.biz",
+        "logicool.co.jp",
+        "logitechg.fr",
+        "logitechg.com",
+        "logicoolg.com",
+        "logi.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,88 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "spotify.link",
+        "spotifycdn.com",
+        "cdn-spotify-experiments.conductrics.com",
+        "spotify.com",
+        "audio-ak-spotify-com.akamaized.net",
+        "spoti.fi",
+        "spotifyforbrands.com",
+        "scdn.co",
+        "spotify.map.fastlylb.net",
+        "byspotify.com",
+        "spotifycharts.com",
+        "spotifyjobs.com",
+        "spotifycdn.net",
+        "spotifycodes.com",
+        "bloodhound.spotify.com",
+        "audio4-ak-spotify-com.akamaized.net",
+        "adeventtracker.spotify.com",
+        "spotify.com.edgesuite.net",
+        "heads4-ak-spotify-com.akamaized.net",
+        "spotify.design",
+        "lifeatspotify.com",
+        "heads-ak-spotify-com.akamaized.net",
+        "tospotify.com",
+        "pscdn.co",
+        "spotify.map.fastly.net",
+        "spotify-everywhere.com",
+        "adstudio-assets.scdn.co",
+        "spotifyforvendors.com"
+      ],
+      "domain_keyword": [
+        "spotify"
+      ],
+      "domain_suffix": [
+        "spotilocal.com",
+        "spotifycdn.com",
+        ".spoti.fi",
+        "spotify.com",
+        "audio-ak-spotify-com.akamaized.net",
+        "spoti.fi",
+        ".spotifycodes.com",
+        "spotifyforbrands.com",
+        "spotifynewsroom.jp",
+        "spotify-com.akamaized.net",
+        "scdn.co",
+        ".spotify.com",
+        ".pscdn.co",
+        ".spotify.design",
+        ".spotifycdn.com",
+        "spotify.app.link",
+        "byspotify.com",
+        "spotifycharts.com",
+        ".lifeatspotify.com",
+        "spotifyjobs.com",
+        ".spotifyjobs.com",
+        ".spotify-everywhere.com",
+        ".spotifycharts.com",
+        "spotifycdn.net",
+        "spotifycodes.com",
+        ".spotifyforbrands.com",
+        "heads4-ak-spotify-com.akamaized.net",
+        "spotify.design",
+        ".byspotify.com",
+        ".tospotify.com",
+        "tospotify.com",
+        ".spotify.link",
+        ".scdn.co",
+        "pscdn.co",
+        "spotify-everywhere.com",
+        ".spotifyforvendors.com",
+        ".spotifycdn.net"
+      ],
+      "ip_cidr": [
+        "35.186.224.47/32",
+        "104.154.127.126/32"
+      ]
+    },
+    {
+      "process_name": [
+        "com.spotify.music"
+      ]
+    }
+  ],
+  "version": 2
+}

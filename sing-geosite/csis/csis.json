@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "csis.org",
+        "csis-prod.s3.amazonaws.com"
+      ],
+      "domain_suffix": ".csis.org"
+    }
+  ]
+}
