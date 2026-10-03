@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "gitee.com",
+        "gitee.io",
+        "oschina.net"
+      ],
+      "domain_suffix": [
+        ".gitee.com",
+        ".gitee.io",
+        ".oschina.net"
+      ]
+    }
+  ]
+}

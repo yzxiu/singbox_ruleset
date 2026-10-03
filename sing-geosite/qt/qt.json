@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "qt-project.org",
+        "qt.io"
+      ],
+      "domain_suffix": [
+        ".qt-project.org",
+        ".qt.io"
+      ]
+    }
+  ]
+}

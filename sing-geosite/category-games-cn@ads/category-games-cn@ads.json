@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "kurogames-ads.com",
+        "log-upload.mihoyo.com"
+      ],
+      "domain_suffix": [
+        ".kurogames-ads.com",
+        ".log-upload.mihoyo.com"
+      ]
+    }
+  ]
+}
