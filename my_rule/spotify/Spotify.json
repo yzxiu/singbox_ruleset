@@ -1,0 +1,88 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "spotifyforbrands.com",
+        "audio4-ak-spotify-com.akamaized.net",
+        "spoti.fi",
+        "pscdn.co",
+        "bloodhound.spotify.com",
+        "spotify.design",
+        "spotify.com",
+        "spotifycdn.com",
+        "spotifycharts.com",
+        "byspotify.com",
+        "spotifyforvendors.com",
+        "heads-ak-spotify-com.akamaized.net",
+        "tospotify.com",
+        "spotify.com.edgesuite.net",
+        "spotify.link",
+        "spotifycodes.com",
+        "adstudio-assets.scdn.co",
+        "heads4-ak-spotify-com.akamaized.net",
+        "scdn.co",
+        "cdn-spotify-experiments.conductrics.com",
+        "adeventtracker.spotify.com",
+        "spotify.map.fastlylb.net",
+        "spotify-everywhere.com",
+        "spotifycdn.net",
+        "lifeatspotify.com",
+        "spotify.map.fastly.net",
+        "audio-ak-spotify-com.akamaized.net",
+        "spotifyjobs.com"
+      ],
+      "domain_keyword": [
+        "spotify"
+      ],
+      "domain_suffix": [
+        ".tospotify.com",
+        "spotifyforbrands.com",
+        ".spotifyforbrands.com",
+        "spotify.app.link",
+        "spoti.fi",
+        ".spotify.link",
+        "spotify.design",
+        ".pscdn.co",
+        ".spoti.fi",
+        ".spotify-everywhere.com",
+        "spotifycdn.com",
+        "spotifycharts.com",
+        "spotify.com",
+        "byspotify.com",
+        ".byspotify.com",
+        "tospotify.com",
+        ".spotifycdn.com",
+        "spotifynewsroom.jp",
+        ".spotifycharts.com",
+        "spotifycodes.com",
+        "heads4-ak-spotify-com.akamaized.net",
+        ".scdn.co",
+        ".spotify.com",
+        "scdn.co",
+        ".spotifyjobs.com",
+        ".spotifycodes.com",
+        "audio-ak-spotify-com.akamaized.net",
+        "spotilocal.com",
+        "spotify-everywhere.com",
+        ".lifeatspotify.com",
+        "spotifycdn.net",
+        "spotify-com.akamaized.net",
+        "pscdn.co",
+        "spotifyjobs.com",
+        ".spotify.design",
+        ".spotifyforvendors.com",
+        ".spotifycdn.net"
+      ],
+      "ip_cidr": [
+        "104.154.127.126/32",
+        "35.186.224.47/32"
+      ]
+    },
+    {
+      "process_name": [
+        "com.spotify.music"
+      ]
+    }
+  ],
+  "version": 2
+}

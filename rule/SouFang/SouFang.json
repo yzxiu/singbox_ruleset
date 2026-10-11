@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "houselight.cn",
+        "soufun.com.cn",
+        "txsf.com",
+        "hkproperty.com",
+        "villachina.com",
+        "nree.cn",
+        "fang.com",
+        "soufunimg.com",
+        "villachina.com.cn",
+        "soufun.com"
+      ]
+    }
+  ],
+  "version": 2
+}

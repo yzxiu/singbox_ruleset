@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "isiknowledge.com",
+        "newisiknowledge.com"
+      ],
+      "domain_suffix": [
+        ".isiknowledge.com",
+        ".newisiknowledge.com"
+      ]
+    }
+  ]
+}

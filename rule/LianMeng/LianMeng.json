@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ulikecam.net",
+        "qmoji.mobi",
+        "ulikecam.com",
+        "heycan.com",
+        "2333333333333.com",
+        "ulikecam.cn",
+        "faceu.mobi",
+        "faceu.com",
+        "faceu.net",
+        "ulikecam.mobi",
+        "bqtalk.com",
+        "faceu.com.cn",
+        "qmoji.net"
+      ]
+    }
+  ],
+  "version": 2
+}

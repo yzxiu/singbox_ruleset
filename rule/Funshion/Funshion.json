@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "jvcsmart.cn",
+        "fun.tv",
+        "funshion.net",
+        "funshion.tv",
+        "fspcdn.com",
+        "funshion.com",
+        "9ixiuxiu.com",
+        "jvcsmart.com.cn",
+        "9iwanwan.com",
+        "ibidian.com"
+      ]
+    }
+  ],
+  "version": 2
+}
