@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "op.gg",
+        "opgg-static.akamaized.net"
+      ],
+      "domain_suffix": ".op.gg"
+    }
+  ]
+}

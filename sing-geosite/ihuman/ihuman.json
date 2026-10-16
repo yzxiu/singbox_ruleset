@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "hongen.com",
+        "ihuman.com"
+      ],
+      "domain_suffix": [
+        ".hongen.com",
+        ".ihuman.com"
+      ]
+    }
+  ]
+}

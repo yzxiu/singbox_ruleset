@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "oneplus.com",
+        "h2os.com",
+        "oneplusmobile.com",
+        "oneplus.cn",
+        "oneplusbbs.com",
+        "oneplus.net",
+        "opstatics.com"
+      ]
+    }
+  ],
+  "version": 2
+}
