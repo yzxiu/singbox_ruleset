@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "samsungdm.com",
+        "samsungknox.com",
+        "samsungapps.com",
+        "samsungqbe.com",
+        "game-platform.net",
+        "galaxymobile.jp",
+        "samsungcloud.com",
+        "samsunggalaxyfriends.com",
+        "anrdoezrs.net",
+        "samsungeshop.com.cn",
+        "galaxyappstore.com",
+        "samsung.com",
+        "knoxemm.com"
+      ]
+    }
+  ],
+  "version": 2
+}

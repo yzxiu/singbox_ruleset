@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "rakuten.com",
+        "o50.jp",
+        "r10.to",
+        "rakuten-static.com",
+        "rakuten.ne.jp",
+        "rakuten.ca",
+        "infoseek.co.jp",
+        "rclon.com",
+        "viber.co.jp",
+        "rakuten.tw",
+        "viber.com",
+        "showtime.co.jp",
+        "r10s.com",
+        "rakuten.co.jp",
+        "rebates.jp",
+        "rakuten.com.tw",
+        "r10s.jp",
+        "ebates.com"
+      ]
+    }
+  ],
+  "version": 2
+}

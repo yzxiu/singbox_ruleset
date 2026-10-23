@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "langkoo.com",
+        "voxlearning.com",
+        "ustalk.cn",
+        "17xueaoshu.com",
+        "kuailexue.com",
+        "17xueshe.cn",
+        "17zyxy.com",
+        "17xueshe.com",
+        "zuoyebao.net",
+        "17jzt.com",
+        "17zuoye.net",
+        "17yunzhijiao.net",
+        "17beijiang.com",
+        "17yunzhijiao.cn",
+        "17zyxy.net",
+        "oaloft.com.cn",
+        "zuoyebao.com",
+        "woshi100.com",
+        "1j1x.com",
+        "17huayuan.com",
+        "17zuoye.cn",
+        "17zyxy.cn",
+        "oaloft.com",
+        "happystudy.cc",
+        "taomingshi.com",
+        "ustalk.com",
+        "17tiku.com",
+        "17xueba.com",
+        "17zyw.cn",
+        "oaloft.net",
+        "oaloft.cn",
+        "17yunzhijiao.com",
+        "17zuoye.com"
+      ]
+    }
+  ],
+  "version": 2
+}

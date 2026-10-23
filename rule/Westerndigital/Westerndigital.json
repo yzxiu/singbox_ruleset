@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sandisk.in",
+        "sandisk.hk",
+        "sandisk.fr",
+        "sandisk.com.au",
+        "sandisk.sg",
+        "wd.com",
+        "sandisk.co.uk",
+        "g-technology.com",
+        "sandisk.cn",
+        "sandisk.id",
+        "sandisk.it",
+        "sandisk.co.jp",
+        "sandisk.ae",
+        "sandisk.co.kr",
+        "sandisk.com",
+        "sandisk.com.tr",
+        "sandisk.com.br",
+        "westerndigital.com",
+        "sandisk.com.tw",
+        "sandisk.de",
+        "sandisk.es",
+        "sandisk.nl",
+        "wdc.com"
+      ]
+    }
+  ],
+  "version": 2
+}

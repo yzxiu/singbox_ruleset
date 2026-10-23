@@ -1,0 +1,55 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ptt2.cc",
+        "dcard.cc",
+        "dcard.io",
+        "dcard.link",
+        "ptt.cc",
+        "dcard.tw",
+        "ptt3.cc"
+      ],
+      "domain_suffix": [
+        "reddit.com",
+        "wikimediafoundation.org",
+        "redd.it",
+        "reddituploads.com.cdn-cf.dropbox.com",
+        "wikibooks.org",
+        "wmflabs.org",
+        "wikisource.org",
+        ".ptt2.cc",
+        ".ptt.cc",
+        ".dcard.io",
+        "redditmedia.com",
+        "wikileaks.org",
+        ".dcard.link",
+        "reddituploads.com.cdn-cf.behance.net",
+        "wikiversity.org",
+        "wikipedia.org",
+        "wikimedia.org",
+        "wikidata.org",
+        "imgur.com",
+        "wikimediacloud.org",
+        "imgurinc.com",
+        "wikinews.org",
+        "wmcloud.org",
+        "redditstatic.com",
+        "wiktionary.org",
+        ".dcard.tw",
+        "wikiquote.org",
+        "wikipedia.com",
+        ".dcard.cc",
+        "toolforge.org",
+        ".ptt3.cc",
+        "reddituploads.com",
+        "w.wiki",
+        "redditmail.com",
+        "mediawiki.org",
+        "wikivoyage.org",
+        "wmfusercontent.org"
+      ]
+    }
+  ],
+  "version": 2
+}
