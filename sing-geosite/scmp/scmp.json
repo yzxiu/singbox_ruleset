@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "i-scmp.com",
+        "scmp.com"
+      ],
+      "domain_suffix": [
+        ".i-scmp.com",
+        ".scmp.com"
+      ]
+    }
+  ]
+}

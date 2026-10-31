@@ -1,0 +1,52 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "duckgo.com",
+        "duckduckco.de",
+        "dukgo.com",
+        "fixtracking.com",
+        "cispaletter.org",
+        "duckduckgo.co",
+        "duckduckgo.com.tw",
+        "dgg.gg",
+        "duckside.com",
+        "duckduckgo.ke",
+        "duckduckgo.com",
+        "justduckit.com",
+        "duck.com",
+        "duckduckgo.mx",
+        "ddh.gg",
+        "duck.co",
+        "donttrack.us",
+        "duckduckgo.jp",
+        "goduckgo.com",
+        "spreadprivacy.com",
+        "duckduckgo.dk",
+        "hacksear.ch",
+        "duckduckgo.nl",
+        "ducksear.ch",
+        "cispaletter.com",
+        "dontbubble.us",
+        "duckduckgo.in",
+        "enteentegeh.de",
+        "cometotheduckside.com",
+        "duckduckco.com",
+        "duckduckgo.co.uk",
+        "duckduckgo.uk",
+        "ddg.gg",
+        "duckduckhack.com",
+        "duckduckgo.com.mx",
+        "duckduckgo.org",
+        "duckduckgo.ca",
+        "duckduckgo.de",
+        "duckduckgo.pl",
+        "privatebrowsingmyths.com",
+        "privacysimplified.com",
+        "duckduckgo.sg",
+        "ddg.co"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ccc.sys.miui.com",
+        "rom.pt.miui.srv",
+        "logupdate.avlyun.sec.miui.com",
+        "sdkconf.avlyun.com",
+        "cn.app.chat.xiaomi.net",
+        "etl-xlmc-ssl.sandai.net",
+        "update.avlyun.sec.miui.com",
+        "auth.be.sec.miui.com",
+        "qsb.browser.miui.srv",
+        "idm.api.io.mi.com",
+        "log.avlyun.sec.intl.miui.com",
+        "tracking.miui.com",
+        "miui-fxcse.avlyun.com",
+        "api.installer.xiaomi.com",
+        "ixav-cse.avlyun.com",
+        "diagnosis.ad.xiaomi.com",
+        "api.jr.mi.com",
+        "m.track.ad.xiaomi.com",
+        "mazu.sec.miui.com",
+        "jupiter.sys.miui.com",
+        "data.mistat.xiaomi.com",
+        "flash.sec.miui.com",
+        "metok.sys.miui.com",
+        "log.ad.xiaomi.com",
+        "a0.app.xiaomi.com",
+        "sdkconfig.ad.xiaomi.com",
+        "ssl-cdn.static.browser.mi-img.com",
+        "tmfsdk.m.qq.com",
+        "miav-cse.avlyun.com"
+      ]
+    }
+  ],
+  "version": 2
+}

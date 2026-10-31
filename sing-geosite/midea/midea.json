@@ -1,0 +1,30 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "irsnp.com",
+        "mdcdn.cn",
+        "midea.cn",
+        "midea.com",
+        "midea.com.cn",
+        "mideaepayuat.com",
+        "msmartlife.cn",
+        "msmartlife.com",
+        "smartmidea.net",
+        "xiaomaigui.com"
+      ],
+      "domain_suffix": [
+        ".irsnp.com",
+        ".mdcdn.cn",
+        ".midea.cn",
+        ".midea.com",
+        ".midea.com.cn",
+        ".mideaepayuat.com",
+        ".msmartlife.cn",
+        ".msmartlife.com",
+        ".smartmidea.net",
+        ".xiaomaigui.com"
+      ]
+    }
+  ]
+}
