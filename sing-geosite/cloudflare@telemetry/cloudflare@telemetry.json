@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cloudflareinsights-cn.com",
+        "cloudflareinsights.com"
+      ],
+      "domain_suffix": [
+        ".cloudflareinsights-cn.com",
+        ".cloudflareinsights.com"
+      ]
+    }
+  ]
+}

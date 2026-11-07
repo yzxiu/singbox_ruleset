@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "serverfault.com",
+        "blogoverflow.com",
+        "stackoverflow.co",
+        "stackoverflow.com",
+        "stackoverflow.blog",
+        "stackoverflowcareers.com",
+        "stackoverflow.email",
+        "askubuntu.com",
+        "thesffblog.com",
+        "stackexchange.com",
+        "mathoverflow.net",
+        "stackapps.com",
+        "superuser.com",
+        "tex-talk.net",
+        "stackoverflowbusiness.com",
+        "stackmod.blog",
+        "sstatic.net",
+        "codeforaliving.io",
+        "stackauth.com",
+        "stacksnippets.net"
+      ]
+    }
+  ],
+  "version": 2
+}

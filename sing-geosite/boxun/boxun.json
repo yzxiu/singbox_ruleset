@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "bowenpress.com",
+        "boxun.com"
+      ],
+      "domain_suffix": [
+        ".bowenpress.com",
+        ".boxun.com"
+      ]
+    }
+  ]
+}
