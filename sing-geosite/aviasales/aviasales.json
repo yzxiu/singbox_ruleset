@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "aviasales.com",
+        "aviasales.ru",
+        "avs.io"
+      ],
+      "domain_suffix": [
+        ".aviasales.com",
+        ".aviasales.ru",
+        ".avs.io"
+      ]
+    }
+  ]
+}

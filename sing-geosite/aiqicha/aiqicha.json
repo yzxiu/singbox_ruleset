@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "aiqicha.baidu.com",
+        "aiqicha.cn",
+        "aiqicha.com"
+      ],
+      "domain_suffix": [
+        ".aiqicha.baidu.com",
+        ".aiqicha.cn",
+        ".aiqicha.com"
+      ]
+    }
+  ]
+}
