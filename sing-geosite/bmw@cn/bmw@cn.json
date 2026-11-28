@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "alphabet.com.cn",
+        "alphabet.net.cn",
+        "bmw.com.cn"
+      ],
+      "domain_suffix": [
+        ".alphabet.com.cn",
+        ".alphabet.net.cn",
+        ".bmw.com.cn"
+      ]
+    }
+  ]
+}
